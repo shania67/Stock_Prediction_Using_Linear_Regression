@@ -1,0 +1,8 @@
+Requirements
+Python
+Google Colab
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
